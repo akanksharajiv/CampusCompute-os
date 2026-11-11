@@ -85,6 +85,8 @@ CampusCompute/
 │   ├── workers.c
 │   └── demo.c
 ├── tests/
+├── evidence/
+│   └── CampusCompute_Screenshot_Report.pdf
 ├── Makefile
 ├── README.md
 └── .gitignore

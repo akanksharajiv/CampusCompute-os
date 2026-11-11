@@ -51,5 +51,10 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+# CampusCompute generated artifacts
+/campuscompute
+/activity.log
+/integrated.log
+
 # debug information files
 *.dwo
